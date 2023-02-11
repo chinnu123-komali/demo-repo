@@ -1,2 +1,2 @@
 this is my fileA.
-this is the new changed i took ..
+this is the new changed i took git 
