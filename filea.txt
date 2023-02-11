@@ -1,1 +1,2 @@
 this is my fileA.
+this is the new changed i took ..
